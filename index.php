@@ -53,8 +53,8 @@
     </nav>
 
     <!-- Header -->
-    <header class="masthead bg-burlywood text-white text-center ">
-      <div class="container">
+    <header class="masthead bg-primary text-white text-center ">
+      <div class="container" style="background-color:burlywood">
         <img class="img-fluid mb-5 d-block mx-auto" src="fw_bootstrap/img/profile.png" alt="">
         <h1 class="text-uppercase mb-0">AndaLand</h1>
         <hr class="star-light">
