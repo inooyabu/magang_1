@@ -53,7 +53,7 @@
     </nav>
 
     <!-- Header -->
-    <header class="masthead bg-primary text-white text-center">
+    <header class="masthead bg-burlywood text-white text-center ">
       <div class="container">
         <img class="img-fluid mb-5 d-block mx-auto" src="fw_bootstrap/img/profile.png" alt="">
         <h1 class="text-uppercase mb-0">AndaLand</h1>
